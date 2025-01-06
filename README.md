@@ -9,7 +9,7 @@ Hiring new employees are extremely complex task that requires capital, time and 
 - Integrating a new employee into the organization can also require time and expenditures.
 - It can take up to six months or more for a company to break even on its investment in a new hire.
 
-[The Cost of Hiring a New Employee - Investopedia](https://www.investopedia.com/financial-edge/0711/the-cost-of-hiring-a-new-employee.aspx)
+
 
 In this project, I have developed a Machine Learning Model to predict the Employee Attrition by implementing various Machine Learning Algorithms.
 Conducted exploratory data analysis using various data visualization techniques.
